@@ -1,0 +1,39 @@
+
+
+.reference{
+    background-color: rgb(194, 208, 255);
+    display:flex;
+    justify-content: left;
+    margin-bottom: 0px;
+}
+.reference a {
+    padding-right: 50px ;
+}
+
+h1{
+    position:relative;
+    padding-top:30px;
+    padding-left:400px;
+    padding-bottom: 30px;
+    margin-top: 0.4px;
+    background-color: rgb(105, 138, 248);
+    text-shadow:2px 1px  rgb(67, 74, 77); ;
+}
+.images{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    background-color: rgb(105, 138, 248);
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(105, 138, 248);
+}
+body{
+    background-image: url("Bg image profolio.jpeg");   
+
+   }
